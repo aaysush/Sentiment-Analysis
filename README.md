@@ -156,10 +156,3 @@ print(label_map[result[0]['label']], result[0]['score'])
 * Explore **distilBERT or LLaMA 2** for lightweight or generative alternatives.
 
 ---
-
-This documentation captures **dataset, preprocessing, training, evaluation, and inference**, ready to include in a report or GitHub repo.
-
----
-
-If you want, I can also **write a short “project summary” version suitable for a resume or portfolio**, which highlights skills and technologies used. Do you want me to do that?
-
